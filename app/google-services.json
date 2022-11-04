@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096166629280",
+    "project_id": "ex88firechattingdb",
+    "storage_bucket": "ex88firechattingdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096166629280:android:2f3fc72d3ce784fcd3cec5",
+        "android_client_info": {
+          "package_name": "com.dabee.ex88firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096166629280-rmiod89sogmjk7hipvj6sorh6n5h0jol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs_8sbNTCstExUVYxiL1M1WZONE1YfcbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096166629280-rmiod89sogmjk7hipvj6sorh6n5h0jol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
