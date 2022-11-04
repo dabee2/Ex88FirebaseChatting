@@ -87,7 +87,7 @@ public class ChattingActivity extends AppCompatActivity {
         });
 
         binding.btnSend.setOnClickListener(view -> clickSend());
-
+//
     }
     void clickSend(){
 
